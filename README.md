@@ -5,7 +5,7 @@
 Here are some ideas to get you started: -->
 
 <div align="center">
-  <img src ="./laptop.png" />
+  <img src ="./banner1.png" />
   
 </div>
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./girl.gif" height="290px" align="right" />
+<img  src="./laptop.gif" height="290px" align="right" />
 
 **- 🙋‍♂️ All about me is at **[My Upcoming Website](https://xyz/)**
 
