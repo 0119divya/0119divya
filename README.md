@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./laptop3.gif" height="290px" align="right" />
+<img  src="./laptop2.gif" height="290px" align="right" />
 
 **- 🙋‍♂️ All about me is at **[My Upcoming Website](https://xyz/)**
 
