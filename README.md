@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 
 <img  src="./laptop2.gif" height="290px" align="right" />
 
-- 🙋‍♂️ You can find more about me on [my Linkedin profile](https://www.linkedin.com/in/0119d/)
+- 🙋‍♂️ You can find more about me on [my Portfolio Page](https://github.com/0119divya/scrum-master-portfolio)
 
 - 💻 I’m currently working on `Creating my Portfolio Website'
 
