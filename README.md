@@ -32,18 +32,7 @@ Here are some ideas to get you started: -->
 ## 🛠️ MY CORE COMPETENCIES:
 
 <p>
-- "Sprint Planning"
-<img alt="Daily Standups" height="25px"/>
-<img alt="Retrospectives" height="25px"/>
-<img alt="Backlog Grooming" height="25px"/>
-<img alt="Retrospectives" height="25px"/>
-<img alt="Velocity Tracking" height="25px"/>
-<img alt="Release Planning" height="25px"/>
-<img alt="Program Governance" height="25px"/>
-<img alt="Cross-Team Collaboration" height="25px"/>
-<img alt="Agile Coaching" height="25px"/>
-<img alt="Delivery Tracking" height="25px"/>
-<img alt="Confluence" height="25px"/>
+Sprint Planning, Daily Standups, Retrospectives, Backlog Grooming, Retrospectives, Velocity Tracking, Release Planning, Program Governance, Cross-Team Collaboration, Agile Coaching, Delivery Tracking, Jira & Confluence
 </p>
 
 ## ❤️ Let's get connected:
