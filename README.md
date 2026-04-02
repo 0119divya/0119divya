@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 
 - 🙋‍♂️ You can find more about me on [my Linkedin profile](https://www.linkedin.com/in/0119d/)
 
-- 💻 I’m currently working on `Creating my Portfolio Website' ** - (https://xyz/)`. **
+- 💻 I’m currently working on `Creating my Portfolio Website'
 
 - 🏅 I’m currently preparing for `PMP certification`
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started: -->
 
 - ✨ Life Hack: Keep Learning :fire: and Keep Sharing :tada:
 
-- ⚡ Fun fact: I spend most of my time creating art and learning new facts
+- ⚡ Fun fact: I spend most of my time creating art 🎨 or sprinting 👟
 
 ## 🛠️ MY CORE COMPETENCIES:
 
