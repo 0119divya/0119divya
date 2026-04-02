@@ -29,7 +29,7 @@ Here are some ideas to get you started: -->
 
 - ⚡ Fun fact: I spend most of my time creating art and learning new facts
 
-## 🛠️ AGILE DELIVERY LEADERSHIP:
+## 🛠️ MY CORE COMPETENCIES:
 
 <p>
 <img alt="Sprint Planning" height="25px"/>
