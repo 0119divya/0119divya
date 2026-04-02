@@ -11,21 +11,21 @@ Here are some ideas to get you started: -->
 
  <br/>
 
-## 👨🏻‍💻 About Me:
+## 👩🏻‍💻 About Me:
 
 <img  src="./laptop2.gif" height="290px" align="right" />
 
 - 🙋‍♂️ You can find more about me on [my Linkedin profile](https://www.linkedin.com/in/0119d/)
 
-- 🔭 I’m currently working on `Creating my Portfolio Website' ** - (https://xyz/)`. **
+- 💻 I’m currently working on `Creating my Portfolio Website' ** - (https://xyz/)`. **
 
-- 🌱 I’m currently preparing for `PMP certification`
+- 🏅 I’m currently preparing for `PMP certification`
 
-- 👯 I’m looking to collaborate for `Agile based Projects and Coaching`
+- 🤝🏻 I’m looking to collaborate for `Agile based Projects and Coaching`
 
 - 🤔 I’m looking for `A new opportunity to work at a challanging environment`
 
-- 👨‍💻 Life Hack: Keep Learning :fire: and Keep Sharing :tada:
+- ✨ Life Hack: Keep Learning :fire: and Keep Sharing :tada:
 
 - ⚡ Fun fact: I spend most of my time creating art and learning new facts
 
