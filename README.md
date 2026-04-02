@@ -38,5 +38,8 @@ Sprint Planning, Daily Standups, Retrospectives, Backlog Grooming, Retrospective
 ## ❤️ Let's get connected:
 
 <p></a> <a href="https://www.linkedin.com/in/0119d/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+<a href="mailto:0119divya@gmail.com" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" height="30px"/>
+</a>
 </p>
 
