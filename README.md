@@ -32,7 +32,7 @@ Here are some ideas to get you started: -->
 ## 🛠️ MY CORE COMPETENCIES:
 
 <p>
-<img alt="Sprint Planning" height="25px"/>
+- "Sprint Planning"
 <img alt="Daily Standups" height="25px"/>
 <img alt="Retrospectives" height="25px"/>
 <img alt="Backlog Grooming" height="25px"/>
