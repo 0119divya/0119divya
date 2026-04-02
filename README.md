@@ -15,9 +15,9 @@ Here are some ideas to get you started: -->
 
 <img  src="./laptop2.gif" height="290px" align="right" />
 
-**- 🙋‍♂️ All about me is at **[My Upcoming Website](https://xyz/)**
+- 🙋‍♂️ You can find more about me on [my Linkedin profile](https://www.linkedin.com/in/0119d/)
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Creating my Portfolio Website' ** - (https://xyz/)`. **
 
 - 🌱 I’m currently preparing for `PMP certification`
 
