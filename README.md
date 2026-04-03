@@ -23,7 +23,7 @@ Here are some ideas to get you started: -->
 
 - 🤝🏻 I’m looking to collaborate for `Agile based Projects and Coaching`
 
-- 🤔 I’m looking for `A new opportunity to work at a challanging environment`
+- 🔎 I’m looking for `A new opportunity to work at a challanging environment`
 
 - ✨ Life Hack: Keep Learning :fire: and Keep Sharing :tada:
 
