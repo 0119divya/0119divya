@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 <img  src="./laptop2.gif" height="290px" align="right" />
 
 
-- 💻 Visit my Portfolio Wesite to know more about me [Portfolio Website](https://0119divya.github.io/Portfolio/)
+- 💻 Visit my [Portfolio Website](https://0119divya.github.io/Portfolio/) to know more about me 
 
 - 🏅 I’m currently preparing for `PMP certification`
 
