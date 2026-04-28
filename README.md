@@ -15,9 +15,8 @@ Here are some ideas to get you started: -->
 
 <img  src="./laptop2.gif" height="290px" align="right" />
 
-- 🙋‍♂️ You can find more about me on [my Portfolio Page](https://github.com/0119divya/scrum-master-portfolio)
 
-- 💻 I’m currently working on [Creating my Portfolio Website](https://0119divya.github.io/Portfolio/)
+- 💻 Visit my Portfolio Wesite to know more about me [Creating my Portfolio Website](https://0119divya.github.io/Portfolio/)
 
 - 🏅 I’m currently preparing for `PMP certification`
 
