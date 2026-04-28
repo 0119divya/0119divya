@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 
 - 🙋‍♂️ You can find more about me on [my Portfolio Page](https://github.com/0119divya/scrum-master-portfolio)
 
-- 💻 I’m currently working on [Creating my Portfolio Website](https://0119divya.github.io)
+- 💻 I’m currently working on [Creating my Portfolio Website](https://0119divya.github.io/Portfolio/)
 
 - 🏅 I’m currently preparing for `PMP certification`
 
